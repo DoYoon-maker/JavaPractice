@@ -1,0 +1,13 @@
+package org.techtown.variable;
+
+public class VarTest03 {
+
+	public static void main(String[] args) {
+		boolean isPerson = true;
+		System.out.println(isPerson);
+		
+		isPerson = false;
+		System.out.println(isPerson);
+	}
+
+}
